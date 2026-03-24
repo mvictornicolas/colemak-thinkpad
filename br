@@ -225,7 +225,7 @@ xkb_symbols "colemak-dh-thinkpad" {
 
 };
 
-// The Colemak-DH keyboard on IBM/Lenovo Thinkpads,
+// The Colemak-DH keyboard for a Periboard-526,
 // by vinimo <mvictornicolas@gmail.com>.
 //
 partial alphanumeric_keys
