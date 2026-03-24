@@ -2417,6 +2417,12 @@
             <description>Portuguese (Brazil, Colemak-DH IBM/Lenovo Thinkpad)</description>
           </configItem>
         </variant>
+		<variant>
+          <configItem>
+            <name>colemak-dh-periboard526</name>
+            <description>Portuguese (Brazil, Colemak-DH Periboard-526)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
